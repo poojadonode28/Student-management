@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "name": "pooja",
+      "branch": "CSE",
+      "email": "poojadonode31@gmail.com",
+      "phone": "9689955894",
+      "id": 1
+    },
+    {
+      "name": "rohit",
+      "branch": "CSE",
+      "email": "poojadonode31@gmail.com",
+      "phone": "9689955894",
+      "id": 2
+    }
+  ]
+}
